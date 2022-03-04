@@ -1,0 +1,6 @@
+c:\users\professor\documents\visual studio 2013\Projects\ProjetoAlunos\ProjetoAlunos\bin\Debug\ProjetoAlunos.exe.config
+c:\users\professor\documents\visual studio 2013\Projects\ProjetoAlunos\ProjetoAlunos\bin\Debug\ProjetoAlunos.exe
+c:\users\professor\documents\visual studio 2013\Projects\ProjetoAlunos\ProjetoAlunos\bin\Debug\ProjetoAlunos.pdb
+c:\users\professor\documents\visual studio 2013\Projects\ProjetoAlunos\ProjetoAlunos\obj\Debug\ProjetoAlunos.csprojResolveAssemblyReference.cache
+c:\users\professor\documents\visual studio 2013\Projects\ProjetoAlunos\ProjetoAlunos\obj\Debug\ProjetoAlunos.exe
+c:\users\professor\documents\visual studio 2013\Projects\ProjetoAlunos\ProjetoAlunos\obj\Debug\ProjetoAlunos.pdb
