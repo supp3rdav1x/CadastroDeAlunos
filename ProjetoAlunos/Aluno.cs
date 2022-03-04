@@ -9,7 +9,6 @@ namespace ProjetoAlunos
     class Aluno
     {
         string matricula;
-
         public string Matricula
         {
             get { return matricula; }
@@ -17,49 +16,45 @@ namespace ProjetoAlunos
         }
 
         string nome;
-
         public string Nome
         {
             get { return nome; }
             set { nome = value; }
         }
-        DateTime dataNasc;
 
+        DateTime dataNasc;
         public DateTime DataNasc
         {
             get { return dataNasc; }
             set { dataNasc = value; }
         }
-        string endereco;
 
+        string endereco;
         public string Endereco
         {
             get { return endereco; }
             set { endereco = value; }
         }
-        string cpf;
 
+        string cpf;
         public string Cpf
         {
             get { return cpf; }
             set { cpf = value; }
         }
-        string email;
 
+        string email;
         public string Email
         {
             get { return email; }
             set { email = value; }
         }
-        string genero;
 
+        string genero;
         public string Genero
         {
             get { return genero; }
             set { genero = value; }
         }
-
-
-
     }
 }
