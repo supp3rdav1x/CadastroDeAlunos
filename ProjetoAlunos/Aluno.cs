@@ -56,5 +56,10 @@ namespace ProjetoAlunos
             get { return genero; }
             set { genero = value; }
         }
+
+        public void ExibirDados()
+        {
+            Console.Write("nome: " + nome + "   -Matricula:" + matricula);
+        }
     }
 }
